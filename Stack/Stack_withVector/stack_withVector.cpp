@@ -21,7 +21,9 @@ public:
             cout << "Stack is empty. Nothing to pop." << endl;
             return -1;
         }
+        int Top = vec.back();
         vec.pop_back();
+        return Top;
     }
     int Top()
     {
