@@ -6,7 +6,6 @@ using namespace std;
 class stack
 {
     vector<int> vec;
-    int top;
 
 public:
     void push(int x)
