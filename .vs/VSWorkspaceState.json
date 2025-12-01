@@ -1,0 +1,16 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\Algorithms",
+    "\\Algorithms\\Binary Search",
+    "\\Algorithms\\Binary Search\\Binary SearchwithArray"
+  ],
+  "SelectedNode": "\\Algorithms\\Binary Search\\Binary SearchwithArray\\binary_searchwithArray.cpp",
+  "PreviewInSolutionExplorer": false
+}

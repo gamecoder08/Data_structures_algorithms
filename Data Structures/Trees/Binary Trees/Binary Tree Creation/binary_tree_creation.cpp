@@ -39,5 +39,12 @@ int main()
           4   5
     */
 
+    // Print the tree structure
+    std::cout << "Root: " << root->data << std::endl;
+    std::cout << "Left Child of Root: " << root->left->data << std::endl;
+    std::cout << "Right Child of Root: " << root->right->data << std::endl;
+    std::cout << "Left Child of Left Child: " << root->left->left->data << std::endl;
+    std::cout << "Right Child of Left Child: " << root->left->right->data << std::endl;
+
     return 0;
 }
